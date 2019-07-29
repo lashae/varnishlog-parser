@@ -219,6 +219,7 @@ class Request extends DefaultTransaction {
       case 'Begin':
       case 'End':
       case 'Backend':
+      case 'BackendStart':
       case 'BackendClose':
       case 'BackendOpen':
       case 'BackendReuse':
