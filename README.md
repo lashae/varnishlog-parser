@@ -1,7 +1,6 @@
 # Varnishlog Parser
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.txt)
-[![Maintenance](https://img.shields.io/maintenance/yes/2016.svg?maxAge=2592000)](https://twitter.com/TOMHTML)
 
 A standalone tool to transform a Varnish output file into a simple diagram sequence.
 
